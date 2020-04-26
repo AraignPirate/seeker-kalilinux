@@ -1,0 +1,9 @@
+#!/bin/bash
+cd template/ngrok/
+./ngrok http 8080 &> /dev/null &
+sleep 2
+cd ../../
+python3 .starter -t manual
+pkill ngrok
+rm tunnels.json &> /dev/null
+exit 0

@@ -1,0 +1,19 @@
+[Sun Apr 26 21:07:32 2020] 127.0.0.1:38756 [200]: /index.html
+[Sun Apr 26 21:07:47 2020] 127.0.0.1:38764 [200]: /
+[Sun Apr 26 21:07:48 2020] 127.0.0.1:38780 [200]: /css/main.css
+[Sun Apr 26 21:07:48 2020] 127.0.0.1:38784 [200]: /js/main.js
+[Sun Apr 26 21:07:49 2020] 127.0.0.1:38794 [200]: /js/location.js
+[Sun Apr 26 21:07:49 2020] 127.0.0.1:38792 [200]: /js/info.js
+[Sun Apr 26 21:07:49 2020] 127.0.0.1:38798 [200]: /js/warpspeed.min.js
+[Sun Apr 26 21:07:52 2020] 127.0.0.1:38804 [200]: /
+[Sun Apr 26 21:07:53 2020] 127.0.0.1:38830 [200]: /css/main.css
+[Sun Apr 26 21:07:53 2020] 127.0.0.1:38834 [200]: /js/main.js
+[Sun Apr 26 21:07:53 2020] 127.0.0.1:38840 [200]: /js/warpspeed.min.js
+[Sun Apr 26 21:07:53 2020] 127.0.0.1:38844 [200]: /js/info.js
+[Sun Apr 26 21:07:53 2020] 127.0.0.1:38848 [200]: /js/location.js
+[Sun Apr 26 21:07:55 2020] 127.0.0.1:38862 [200]: /php/info.php
+[Sun Apr 26 21:08:09 2020] 127.0.0.1:38870 [200]: /php/result.php
+PHP 7.3.15-3 Development Server started at Sun Apr 26 21:07:29 2020
+Listening on http://0.0.0.0:8080
+Document root is /home/kali/Projects/seeker/template/nearyou
+Press Ctrl-C to quit.
