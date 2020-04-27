@@ -1,5 +1,5 @@
 #!/bin/bash
-Clear
+clear
 cd template/ngrok/
 ./ngrok http 8080 &> /dev/null &
 sleep 2
