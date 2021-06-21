@@ -5,6 +5,7 @@ Concept behind Seeker is simple, just like we host phishing pages to get credent
 
 * Latitude
 
+
 * Accuracy
 
 * Altitude - Not always available
